@@ -5,10 +5,9 @@ import org.example.Study.StreamService;
 import org.example.Study.Student;
 import org.example.Study.StudyGroup;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import static org.example.Utils.AutoGenerate.*;
+
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
